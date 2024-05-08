@@ -1,0 +1,46 @@
+#app {
+    text-align: center;
+    margin: auto;
+}
+
+.navbar {
+    min-height: 3.25rem;
+    background: white !important;
+    padding: 12px;
+    color: white !important;
+
+}
+
+** not doing a thing **
+a.navbar-menu {
+    margin: 0px !important;
+    text-align: center;
+    list-style-type: none;
+}
+
+a.navbar-item:hover {
+    background: transparent !important;
+    color: #FFAEBC !important;
+}
+
+.logo-nav {
+    height: 60px;
+}
+
+.start-button {
+    background-color: #FBE7C6 !important;
+    color: #5b443e;
+    font-weight: 500;
+    width: 300px;
+    height: 70px;
+    border-radius: 30px;
+    align-self: center;
+    margin: 30px;
+}
+
+.intro-section {
+    margin: 70px;
+    font-size: xx-large;
+    font-weight: 500;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
